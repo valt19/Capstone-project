@@ -42,6 +42,9 @@ Portfolio Project is mandatory to every student at Microverse, and it is one of 
 
 - **[user_friendy]**
 - **[fast]**
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://valt19.github.io/Capstone-project/)
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
