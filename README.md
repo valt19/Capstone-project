@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align ="center">
-  <h3><b>PORTFOLIO</b></h3>
+  <h3><b>IWA CAPSTONE</b></h3>
 
 </div>
 
@@ -28,11 +28,11 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Portfolio-project] <a name="Portfolio-project"></a>
+# 📖 [IWA Capstone] <a name="IWA Capstone"></a>
 
 Portfolio Project is mandatory to every student at Microverse, and it is one of the product that helps a student to job market. It has the followinf files: a README file, html, css, gitignore, linters
 
-**[Portfolio-project]** is a...
+**[IWA Capstone]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 **Tech stack**
