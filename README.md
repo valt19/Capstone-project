@@ -123,7 +123,7 @@ If you like this project please follow my github account : @valt19
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > Give credit to everyone who inspired your codebase.
-
+Cindy Shin :(https://www.behance.net/adagio07)
 I would like to thank Agaba JohnMark for helping finish this project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
